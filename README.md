@@ -1,2 +1,4 @@
-# spider_project
-# spider_project
+
+爬虫优化
+１、分布式爬虫减少redis链接数量
+２、减少缓存数据库次数
